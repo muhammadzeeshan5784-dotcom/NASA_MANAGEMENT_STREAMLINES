@@ -1,7 +1,7 @@
 /**
  * @file nms.cpp
  * @brief NASA Management System (NMS) - Project Horizon
- * @author Muhammad Zeeshan (2025-cS-302)
+ * @author Muhammad Zeeshan (2025-CS-302)
  * @date January 2026
  * 
  * @details
