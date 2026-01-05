@@ -2,7 +2,6 @@
 
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://en.cppreference.com/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 The **NASA Management System (NMS)** is a comprehensive, console-based application designed to streamline administrative and operational workflows for space agency simulations. It provides a multi-tiered access control system to manage various agency modules including mission planning, inventory tracking, personnel management, and astronomical data exploration.
 
@@ -86,4 +85,4 @@ NASA_MANAGEMENT_STREAMLINES/
 ---
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the UET License - see the [LICENSE](LICENSE) file for details.
