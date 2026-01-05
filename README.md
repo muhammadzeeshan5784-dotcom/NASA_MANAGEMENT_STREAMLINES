@@ -75,7 +75,7 @@ NASA_MANAGEMENT_STREAMLINES/
 └── README.md           # Project overview and instructions
 ```
 ## Application Runtime Details
-- **Login Credentials**: For Admin Login, Username: themystery   Password: 29July1958
+- **Login Credentials**: For Admin Login, Username: **themystery**   Password: **29July1958**
 - **Main Menu**: On the main menu you can see five options
 - Sign In,  Sign Up, History, About, and Exit.
 - **Sign Up**: There are proper instruction for new users how to sign up.
