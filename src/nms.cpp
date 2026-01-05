@@ -229,7 +229,7 @@ main()
                   logActions, logCount);
 
     // Root Instructions
-    SetConsoleTitle("NASA HORIZON - PROJECT TITAN");
+    SetConsoleTitleA("NASA HORIZON - PROJECT TITAN");
     setCursor(false);
     srand(time(0)); // Seed RNG
     system("cls");
