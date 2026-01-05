@@ -230,7 +230,7 @@ main()
 
     // Root Instructions
     SetConsoleTitleA("NASA HORIZON - PROJECT TITAN");
-    setCursor(false);
+    setCursor(true);
     srand(time(0)); // Seed RNG
     system("cls");
     cout << RD << "Please Wait! Initializing the Boot";
