@@ -1,0 +1,18 @@
+# Compiled Executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Data Files (Keep structure but ignore actual CSV data if preferred)
+# data/*.csv
+
+# Temporary/System Files
+.DS_Store
+Thumbs.db
+
+# IDE Folders
+.vscode/
+.vs/
+bin/
+obj/
